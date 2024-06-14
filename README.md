@@ -13,4 +13,4 @@
 </div>
 
 ## Link deploy 
-[https://jogonumerosecreto-phi.vercel.app/](https://challenge-one-front-end-portfolio2.vercel.app/)
+https://challenge-one-front-end-portfolio2.vercel.app/ 
