@@ -1,0 +1,126 @@
+@media (min-width: 375px) and (max-width: 767.98px){
+
+    /* NAVEGAÇÃO */
+
+    .navegacao{
+        display: none;
+    }
+
+    /* CABEÇALHO*/
+
+    .img_cabecalho img{
+        width: 40%;
+    }
+
+    .subtitle_cabecalho, .bv_cabecalho{
+        text-align: center;
+    }
+
+    .subtitle_cabecalho{
+        font-size: 14px;
+    }
+
+    .bv_cabecalho{
+        font-size: 18px;
+    }
+
+    /* TECNOLOGIAS */
+
+    .title_tec{
+        font-size: 22px;
+        text-align: center;
+    }
+
+
+     /* FORMAÇÃO ACADEMICA */
+
+    .div_formacao{
+        flex-direction: column;
+    }
+
+    .title_formacao{
+        font-size: 22px;
+        text-align: center;
+     }
+
+    .formacao_cont{
+        text-align: center;
+        min-width: 25vh;
+        min-height: auto;
+    }
+
+    .formacao_div_img{
+        width: 100%;
+    }
+
+    .div_txt_h1{
+        font-size: 10px;
+    }
+
+    .div_txt_h2{
+        font-size: 8px;
+    }
+
+    /* PROJETOS */
+    .cont_proj{
+        flex-direction: column;
+    }
+
+    .bloco_proj{
+        border-radius: 10px;
+    }
+
+    .bloco_proj img{
+        border-radius: 10px;
+    }
+
+    .txt_proj_h1{
+        font-size: 16px;
+        padding-top: 10px;
+    }
+    
+    .txt_proj_h2{
+        font-size: 12px;
+        gap: 10px;
+    }
+
+    /* FORMULÁRIO */
+
+    .form-titulo{
+        font-size: 22px;
+    }
+
+    .form_img{
+        display: none;
+    }
+
+    .container{
+        width: 100%;
+        height: auto;
+    }
+
+    .input-group {
+        flex-direction: column;
+        flex-wrap: nowrap;
+        width: 100%;
+        align-items: left;
+        justify-content: center;
+        
+    }
+
+    /* RODAPE*/
+
+    .rodape{
+        flex-direction: column;
+        justify-content: center;
+        text-align: center;
+    }
+
+    .rodape p{
+        font-size: 12px;
+    }
+
+    .rodape a{
+        font-size: 10px;
+    }
+}

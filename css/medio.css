@@ -1,0 +1,48 @@
+@media (min-width: 768px) and (max-width: 1400px){
+    
+    /* TECNOLOGIAS */
+    
+        .cont_tec{
+            padding-inline: 30px;
+        }
+    
+        .div_tec{
+            flex-wrap: wrap;
+            justify-content: center;
+        }
+    
+
+    /* FORMAÇÃO ACADEMICA*/
+
+        .div_formacao{
+            display: grid;
+            grid-template-columns: repeat(2,2fr);
+        }
+    
+        .teste_formacao{
+            max-width: 200px;
+            width: 100%;
+        }
+    
+    /* PROJETOS */
+    .cont_proj{
+        flex-direction: column;
+    }
+
+
+    /* FORMULARIO */
+
+        .form_secao{
+            padding: 27.5px 50px;
+        }
+    
+        .form_img{
+            display: none;
+        }
+    
+        .container{
+            width: 100%;
+            height: auto;
+        }
+    
+    }
