@@ -275,6 +275,7 @@ header{
    background-color: var(--fundo-form-rodape);
    border-top-left-radius: 50px;
    border-top-right-radius: 50px;
+   
 }
 .form-titulo{
     font-size: 40px;
@@ -385,7 +386,7 @@ header{
 
 
 .button-enviar button{
-    width: 100%;
+    min-width: 100%;
     height: 55px;
     margin-top: 0;
     border: none;
@@ -393,6 +394,7 @@ header{
     padding: 0.62rem;
     border-radius: 10px;
     cursor: pointer;
+    font-size: 16px;
 }
 
 .button-enviar button:hover {
